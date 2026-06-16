@@ -32,10 +32,10 @@ Designed specifically for the da Vinci Cadiere Forceps (parallel-action), this r
 ## 🫱🏼‍🫲🏿 Contributing & Contact
 This project is developed solely as a proof-of-concept for graduate-level research. If you are a researcher or engineer looking to collaborate on minimally invasive sensor integration, feel free to open an issue, submit a pull request, or message me directly.
 
-Researcher: Orville Daley
-Contact: linkedin.com/in/orvilledaley
-Supervisor: Charles (Charlie) DeLorey
+* **Researcher:** Orville Daley
+* **Contact:** [linkedin.com/in/orvilledaley](https://linkedin.com/in/orvilledaley)
+* **Supervisor:** Charles (Charlie) DeLorey
 
-Disclaimer: This repository contains experimental designs and code. It is not FDA-approved and is strictly for research and portfolio demonstration purposes. 
-> [!WARNING] 
+> [!WARNING]
+> Disclaimer: This repository contains experimental designs and code. It is not FDA-approved and is strictly for research and portfolio demonstration purposes. 
 > Do NOT use in clinical settings.
